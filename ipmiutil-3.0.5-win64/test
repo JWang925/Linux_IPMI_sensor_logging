@@ -1,0 +1,95 @@
+ipmiutil ver 3.05
+isensor: version 3.05
+Connecting to node  192.168.1.173
+-- BMC version 1.13, IPMI version 2.0 
+_ID_ SDR_Type_xx ET Own Typ S_Num   Sens_Description   Hex & Interp Reading
+0001 SDR OEM  c0 0b Intel: NM(6,2c,0) health=19 excep=18 capab=1a thresh=1b
+0002 SDR IPMB 12 1b dev: 20 00 9f 07 01 Basbrd_Mgmt_Ctlr
+0003 SDR Full 01 01 20 a 02 snum 40 P_12V            = bc OK   12.22 Volts
+0004 SDR Full 01 01 20 a 02 snum 41 P_5V             = c5 OK   5.06 Volts
+0005 SDR Full 01 01 20 a 02 snum 42 P_3V3            = bf OK   3.30 Volts
+0006 SDR Full 01 01 20 a 02 snum 43 P_5V_STBY        = c5 OK   5.06 Volts
+0007 SDR Full 01 01 20 a 02 snum 44 P_1V05_PCH       = 95 OK   1.04 Volts
+0008 SDR Full 01 01 20 a 02 snum 45 P_VBAT           = 91 OK   3.07 Volts
+0009 SDR Full 01 01 20 a 02 snum 46 P_VCCIN_CPU0     = b9 OK   1.81 Volts
+000a SDR Full 01 01 20 a 02 snum 47 P_VCCIN_CPU1     = a4 OK   1.61 Volts
+000b SDR Full 01 01 20 a 02 snum 48 P_VDDQ_CPU0_ABC  = 9a OK   1.24 Volts
+000c SDR Full 01 01 20 a 02 snum 49 P_VDDQ_CPU0_DEF  = 9b OK   1.24 Volts
+000d SDR Full 01 01 20 a 02 snum 4a P_VDDQ_CPU1_ABC  = 9a OK   1.24 Volts
+000e SDR Full 01 01 20 a 02 snum 4b P_VDDQ_CPU1_DEF  = 9a OK   1.24 Volts
+000f SDR Full 01 01 20 a 02 snum 4c P_VNN_PCH_AUX    = 8f OK   1.00 Volts
+0010 SDR Full 01 01 20 a 02 snum 4d P_1V8_AUX_PCH    = ba OK   1.82 Volts
+0011 SDR Full 01 01 20 a 02 snum 4e P_1V0_AUX_LAN    = 92 OK   1.02 Volts
+001a SDR Comp 02 6f 20 a 08 snum e6 PS1_Status       = 0001 Present
+001b SDR Comp 02 6f 20 a 08 snum e7 PS2_Status       = 0040 NotAvailable
+001c SDR Full 01 01 20 a 01 snum 01 CPU0_TEMP        = 1c OK   28.00 degrees C
+001d SDR Full 01 01 20 a 01 snum 0c CPU0_DTS         = 4a OK   74.00 degrees C
+001e SDR Full 01 01 20 a 01 snum 02 CPU1_TEMP        = 17 OK   23.00 degrees C
+001f SDR Full 01 01 20 a 01 snum 0d CPU1_DTS         = 4f OK   79.00 degrees C
+0020 SDR Full 01 01 20 a 01 snum 04 DIMMG0_TEMP      = 1a OK   26.00 degrees C
+0021 SDR Full 01 01 20 a 01 snum 05 DIMMG1_TEMP      = 1a OK   26.00 degrees C
+0022 SDR Full 01 01 20 a 01 snum 06 DIMMG2_TEMP      = 1a OK   26.00 degrees C
+0023 SDR Full 01 01 20 a 01 snum 07 DIMMG3_TEMP      = 1a OK   26.00 degrees C
+0024 SDR Full 01 01 20 a 01 snum 03 PCH_TEMP         = 1f OK   31.00 degrees C
+0025 SDR Full 01 01 20 a 01 snum 08 MB_TEMP1         = 1b OK   27.00 degrees C
+0026 SDR Full 01 01 20 a 01 snum 09 MB_TEMP2         = 1e OK   30.00 degrees C
+0027 SDR Full 01 01 20 a 01 snum 0e VR_P0_TEMP       = 18 OK   24.00 degrees C
+0028 SDR Full 01 01 20 a 02 snum 50 VR_P0_VIN        = 61 OK   12.13 Volts
+0029 SDR Full 01 01 20 a 02 snum 51 VR_P0_VOUT       = 73 OK   1.84 Volts
+002a SDR Full 01 01 20 a 03 snum 80 VR_P0_IOUT       = 04 OK   4.00 Amps
+002b SDR Full 01 01 20 a 01 snum 0f VR_P1_TEMP       = 18 OK   24.00 degrees C
+002c SDR Full 01 01 20 a 02 snum 52 VR_P1_VIN        = 61 OK   12.13 Volts
+002d SDR Full 01 01 20 a 02 snum 53 VR_P1_VOUT       = 66 OK   1.63 Volts
+002e SDR Full 01 01 20 a 03 snum 81 VR_P1_IOUT       = 02 OK   2.00 Amps
+002f SDR Full 01 01 20 a 01 snum 10 VR_DIMMG0_TEMP   = 1a OK   26.00 degrees C
+0030 SDR Full 01 01 20 a 02 snum 54 VR_DIMMG0_VIN    = 61 OK   12.13 Volts
+0031 SDR Full 01 01 20 a 02 snum 55 VR_DIMMG0_VOUT   = 4f OK   1.26 Volts
+0032 SDR Full 01 01 20 a 03 snum 82 VR_DIMMG0_IOUT   = 01 OK   1.00 Amps
+0033 SDR Full 01 01 20 a 01 snum 11 VR_DIMMG1_TEMP   = 1a OK   26.00 degrees C
+0034 SDR Full 01 01 20 a 02 snum 56 VR_DIMMG1_VIN    = 61 OK   12.13 Volts
+0035 SDR Full 01 01 20 a 02 snum 57 VR_DIMMG1_VOUT   = 4f OK   1.26 Volts
+0036 SDR Full 01 01 20 a 03 snum 83 VR_DIMMG1_IOUT   = 00 OK   0.00 Amps
+0037 SDR Full 01 01 20 a 01 snum 12 VR_DIMMG2_TEMP   = 1d OK   29.00 degrees C
+0038 SDR Full 01 01 20 a 02 snum 58 VR_DIMMG2_VIN    = 61 OK   12.13 Volts
+0039 SDR Full 01 01 20 a 02 snum 59 VR_DIMMG2_VOUT   = 4f OK   1.26 Volts
+003a SDR Full 01 01 20 a 03 snum 84 VR_DIMMG2_IOUT   = 00 OK   0.00 Amps
+003b SDR Full 01 01 20 a 01 snum 13 VR_DIMMG3_TEMP   = 1d OK   29.00 degrees C
+003c SDR Full 01 01 20 a 02 snum 5a VR_DIMMG3_VIN    = 62 OK   12.25 Volts
+003d SDR Full 01 01 20 a 02 snum 5b VR_DIMMG3_VOUT   = 4f OK   1.26 Volts
+003e SDR Full 01 01 20 a 03 snum 85 VR_DIMMG3_IOUT   = 00 OK   0.00 Amps
+003f SDR Comp 02 6f 20 a 07 snum e4 CPU0_Status      = 0080 ProcPresent
+0040 SDR Comp 02 6f 20 a 07 snum e5 CPU1_Status      = 0080 ProcPresent
+0041 SDR Comp 02 70 20 a c0 snum e2 BIOS_POST        = 0000 OK  
+0042 SDR Full 01 01 20 a 01 snum 0b INLET_AIR_TEMP   = 17 OK   23.00 degrees C
+0047 SDR Full 01 01 20 a 01 snum 1c M2_TEMP1         = 00 Init  0.00 degrees C
+0048 SDR Full 01 01 20 a 01 snum 1d M2_TEMP2         = 00 Init  0.00 degrees C
+0049 SDR Full 01 01 20 a 01 snum 1e M2_TEMP3         = 00 Init  0.00 degrees C
+0051 SDR Full 01 01 20 a 01 snum 20 HDD_TEMP_0       = 18 OK   24.00 degrees C
+0052 SDR Full 01 01 20 a 01 snum 21 HDD_TEMP_1       = 18 OK   24.00 degrees C
+0077 SDR Full 01 01 20 a 04 snum a0 BPB_FAN_1A       = 42 OK   6600.00 RPM
+0078 SDR Full 01 01 20 a 04 snum a1 BPB_FAN_1B       = 35 OK   5300.00 RPM
+0079 SDR Full 01 01 20 a 04 snum a2 BPB_FAN_2A       = 4c OK   7600.00 RPM
+007a SDR Full 01 01 20 a 04 snum a3 BPB_FAN_2B       = 3d OK   6100.00 RPM
+007b SDR Full 01 01 20 a 04 snum a4 BPB_FAN_3A       = 4c OK   7600.00 RPM
+007c SDR Full 01 01 20 a 04 snum a5 BPB_FAN_3B       = 3d OK   6100.00 RPM
+007d SDR Full 01 01 20 a 04 snum a6 BPB_FAN_4A       = 41 OK   6500.00 RPM
+007e SDR Full 01 01 20 a 04 snum a7 BPB_FAN_4B       = 35 OK   5300.00 RPM
+007f SDR Full 01 01 20 a 04 snum a8 BPB_FAN_5A       = 42 OK   6600.00 RPM
+0080 SDR Full 01 01 20 a 04 snum a9 BPB_FAN_5B       = 35 OK   5300.00 RPM
+0081 SDR Full 01 01 20 a 04 snum aa BPB_FAN_6A       = 4c OK   7600.00 RPM
+0082 SDR Full 01 01 20 a 04 snum ab BPB_FAN_6B       = 3e OK   6200.00 RPM
+0083 SDR Full 01 01 20 a 04 snum ac BPB_FAN_7A       = 4c OK   7600.00 RPM
+0084 SDR Full 01 01 20 a 04 snum ad BPB_FAN_7B       = 3e OK   6200.00 RPM
+0085 SDR Full 01 01 20 a 04 snum ae BPB_FAN_8A       = 4d OK   7700.00 RPM
+0086 SDR Full 01 01 20 a 04 snum af BPB_FAN_8B       = 3d OK   6100.00 RPM
+008f SDR Comp 02 6f 20 a 10 snum e1 SEL              = 0010 SelFull
+0094 SDR Comp 02 6f 20 a 28 snum e8 BPB_HDD_HEALTH   = 0000 OK  
+0095 SDR IPMB 12 1b dev: 2c 06 21 07 01 NodeManager_Ctrl
+0097 SDR Comp 02 6f 20 a 23 snum eb Watchdog         = 0000 OK  
+0098 SDR Full 01 01 20 a 01 snum 30 PSU1_HOTSPOT     = 28 OK   40.00 degrees C
+0099 SDR Full 01 01 20 a 01 snum 31 PSU2_HOTSPOT     = 00 Init  0.00 degrees C
+009a SDR Full 01 01 20 a 01 snum 34 NVMeG0_TEMP      = 00 Init  0.00 degrees C
+009b SDR Full 01 01 20 a 01 snum 35 NVMeG1_TEMP      = 00 Init  0.00 degrees C
+009c SDR Full 01 01 20 a 01 snum 36 NVMeG2_TEMP      = 00 Init  0.00 degrees C
+     SDR IPMI       sensor: Power On Hours 	   = 414 hours
+ipmiutil sensor, completed successfully
