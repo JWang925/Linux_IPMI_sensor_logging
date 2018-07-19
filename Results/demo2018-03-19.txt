@@ -1,0 +1,294 @@
+Current time: | Mon Mar 19 14:52:06 EDT 2018
+Time stamp: | 1521485526
+Excel time format: | 19/03/18 02:52:06 PM
+P_12V            | 12.16 Volts       | ok
+P_5V             | 5.04 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.01 Volts        | ok
+P_1V05_PCH       | 1.04 Volts        | ok
+P_VBAT           | 2.61 Volts        | nc
+P_VCCIN_CPU0     | 1.76 Volts        | ok
+P_VCCIN_CPU1     | 1.75 Volts        | ok
+P_VDDQ_CPU0_ABC  | 1.23 Volts        | ok
+P_VDDQ_CPU0_DEF  | 1.23 Volts        | ok
+P_VDDQ_CPU1_ABC  | 1.22 Volts        | ok
+P_VDDQ_CPU1_DEF  | 1.23 Volts        | ok
+P_VNN_PCH_AUX    | 0.99 Volts        | ok
+P_1V8_AUX_PCH    | 1.80 Volts        | ok
+P_1V0_AUX_LAN    | 1.02 Volts        | ok
+PS1_Status       | 0x00              | ok
+PS2_Status       | 0x00              | ok
+CPU0_TEMP        | 59 degrees C      | ok
+CPU0_DTS         | 42 degrees C      | ok
+CPU1_TEMP        | 56 degrees C      | ok
+CPU1_DTS         | 45 degrees C      | ok
+DIMMG0_TEMP      | 42 degrees C      | ok
+DIMMG1_TEMP      | 41 degrees C      | ok
+DIMMG2_TEMP      | 39 degrees C      | ok
+DIMMG3_TEMP      | 41 degrees C      | ok
+PCH_TEMP         | 49 degrees C      | ok
+MB_TEMP1         | 43 degrees C      | ok
+MB_TEMP2         | 49 degrees C      | ok
+VR_P0_TEMP       | 37 degrees C      | ok
+VR_P0_VIN        | 12 Volts          | ok
+VR_P0_VOUT       | 1.79 Volts        | ok
+VR_P0_IOUT       | 49 Amps           | ok
+VR_P1_TEMP       | 37 degrees C      | ok
+VR_P1_VIN        | 12.12 Volts       | ok
+VR_P1_VOUT       | 1.81 Volts        | ok
+VR_P1_IOUT       | 44 Amps           | ok
+VR_DIMMG0_TEMP   | 32 degrees C      | ok
+VR_DIMMG0_VIN    | 12.12 Volts       | ok
+VR_DIMMG0_VOUT   | 1.26 Volts        | ok
+VR_DIMMG0_IOUT   | 7 Amps            | ok
+VR_DIMMG1_TEMP   | 32 degrees C      | ok
+VR_DIMMG1_VIN    | 12.12 Volts       | ok
+VR_DIMMG1_VOUT   | 1.26 Volts        | ok
+VR_DIMMG1_IOUT   | 5 Amps            | ok
+VR_DIMMG2_TEMP   | 29 degrees C      | ok
+VR_DIMMG2_VIN    | 12.12 Volts       | ok
+VR_DIMMG2_VOUT   | 1.26 Volts        | ok
+VR_DIMMG2_IOUT   | 7 Amps            | ok
+VR_DIMMG3_TEMP   | 31 degrees C      | ok
+VR_DIMMG3_VIN    | 12.12 Volts       | ok
+VR_DIMMG3_VOUT   | 1.26 Volts        | ok
+VR_DIMMG3_IOUT   | 5 Amps            | ok
+CPU0_Status      | 0x00              | ok
+CPU1_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+INLET_AIR_TEMP   | 29 degrees C      | ok
+OCP_G0_TEMP      | no reading        | ns
+M2_G0_TEMP       | no reading        | ns
+OCP_G1_TEMP      | no reading        | ns
+M2_G1_TEMP       | no reading        | ns
+M2_G2_TEMP       | no reading        | ns
+RISER1_TEMP      | no reading        | ns
+RISER2_TEMP      | 51 degrees C      | ok
+RISER3_TEMP      | 45 degrees C      | ok
+RISER4_TEMP      | no reading        | ns
+HDD_TEMP_0       | 40 degrees C      | ok
+HDD_TEMP_1       | 40 degrees C      | ok
+BPB_FAN_1A       | 7600 RPM          | ok
+BPB_FAN_1B       | 6100 RPM          | ok
+BPB_FAN_2A       | 8000 RPM          | ok
+BPB_FAN_2B       | 6400 RPM          | ok
+BPB_FAN_3A       | 7900 RPM          | ok
+BPB_FAN_3B       | 6300 RPM          | ok
+BPB_FAN_4A       | 7500 RPM          | ok
+BPB_FAN_4B       | 6100 RPM          | ok
+BPB_FAN_5A       | 7600 RPM          | ok
+BPB_FAN_5B       | 6100 RPM          | ok
+BPB_FAN_6A       | 7600 RPM          | ok
+BPB_FAN_6B       | 6100 RPM          | ok
+BPB_FAN_7A       | 7600 RPM          | ok
+BPB_FAN_7B       | 6100 RPM          | ok
+BPB_FAN_8A       | 6100 RPM          | ok
+BPB_FAN_8B       | 7600 RPM          | ok
+SEL              | 0x00              | ok
+BPB_HDD_HEALTH   | 0x00              | ok
+Watchdog         | 0x00              | ok
+PSU1_HOTSPOT     | 54 degrees C      | ok
+PSU2_HOTSPOT     | 41 degrees C      | ok
+NVMeG0_TEMP      | 42 degrees C      | ok
+NVMeG1_TEMP      | no reading        | ns
+NVMeG2_TEMP      | no reading        | ns
+NVMeG3_TEMP      | no reading        | ns
+NVMeG4_TEMP      | no reading        | ns
+NVMeG5_TEMP      | no reading        | ns
+exit code: 0
+Current time: | Mon Mar 19 14:53:53 EDT 2018
+Time stamp: | 1521485633
+Excel time format: | 19/03/18 02:53:53 PM
+P_12V            | 12.16 Volts       | ok
+P_5V             | 5.04 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.01 Volts        | ok
+P_1V05_PCH       | 1.03 Volts        | ok
+P_VBAT           | 2.61 Volts        | nc
+P_VCCIN_CPU0     | 1.75 Volts        | ok
+P_VCCIN_CPU1     | 1.76 Volts        | ok
+P_VDDQ_CPU0_ABC  | 1.22 Volts        | ok
+P_VDDQ_CPU0_DEF  | 1.23 Volts        | ok
+P_VDDQ_CPU1_ABC  | 1.23 Volts        | ok
+P_VDDQ_CPU1_DEF  | 1.23 Volts        | ok
+P_VNN_PCH_AUX    | 0.99 Volts        | ok
+P_1V8_AUX_PCH    | 1.80 Volts        | ok
+P_1V0_AUX_LAN    | 1.02 Volts        | ok
+PS1_Status       | 0x00              | ok
+PS2_Status       | 0x00              | ok
+CPU0_TEMP        | 58 degrees C      | ok
+CPU0_DTS         | 43 degrees C      | ok
+CPU1_TEMP        | 56 degrees C      | ok
+CPU1_DTS         | 45 degrees C      | ok
+DIMMG0_TEMP      | 41 degrees C      | ok
+DIMMG1_TEMP      | 41 degrees C      | ok
+DIMMG2_TEMP      | 39 degrees C      | ok
+DIMMG3_TEMP      | 41 degrees C      | ok
+PCH_TEMP         | 50 degrees C      | ok
+MB_TEMP1         | 43 degrees C      | ok
+MB_TEMP2         | 49 degrees C      | ok
+VR_P0_TEMP       | 37 degrees C      | ok
+VR_P0_VIN        | 12 Volts          | ok
+VR_P0_VOUT       | 1.79 Volts        | ok
+VR_P0_IOUT       | 49 Amps           | ok
+VR_P1_TEMP       | 36 degrees C      | ok
+VR_P1_VIN        | 12.12 Volts       | ok
+VR_P1_VOUT       | 1.81 Volts        | ok
+VR_P1_IOUT       | 44 Amps           | ok
+VR_DIMMG0_TEMP   | 32 degrees C      | ok
+VR_DIMMG0_VIN    | 12.12 Volts       | ok
+VR_DIMMG0_VOUT   | 1.26 Volts        | ok
+VR_DIMMG0_IOUT   | 7 Amps            | ok
+VR_DIMMG1_TEMP   | 32 degrees C      | ok
+VR_DIMMG1_VIN    | 12.12 Volts       | ok
+VR_DIMMG1_VOUT   | 1.26 Volts        | ok
+VR_DIMMG1_IOUT   | 5 Amps            | ok
+VR_DIMMG2_TEMP   | 30 degrees C      | ok
+VR_DIMMG2_VIN    | 12.12 Volts       | ok
+VR_DIMMG2_VOUT   | 1.26 Volts        | ok
+VR_DIMMG2_IOUT   | 7 Amps            | ok
+VR_DIMMG3_TEMP   | 32 degrees C      | ok
+VR_DIMMG3_VIN    | 12.12 Volts       | ok
+VR_DIMMG3_VOUT   | 1.26 Volts        | ok
+VR_DIMMG3_IOUT   | 5 Amps            | ok
+CPU0_Status      | 0x00              | ok
+CPU1_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+INLET_AIR_TEMP   | 29 degrees C      | ok
+OCP_G0_TEMP      | no reading        | ns
+M2_G0_TEMP       | no reading        | ns
+OCP_G1_TEMP      | no reading        | ns
+M2_G1_TEMP       | no reading        | ns
+M2_G2_TEMP       | no reading        | ns
+RISER1_TEMP      | no reading        | ns
+RISER2_TEMP      | 50 degrees C      | ok
+RISER3_TEMP      | 45 degrees C      | ok
+RISER4_TEMP      | no reading        | ns
+HDD_TEMP_0       | 40 degrees C      | ok
+HDD_TEMP_1       | 40 degrees C      | ok
+BPB_FAN_1A       | 7600 RPM          | ok
+BPB_FAN_1B       | 6100 RPM          | ok
+BPB_FAN_2A       | 7900 RPM          | ok
+BPB_FAN_2B       | 6400 RPM          | ok
+BPB_FAN_3A       | 7900 RPM          | ok
+BPB_FAN_3B       | 6300 RPM          | ok
+BPB_FAN_4A       | 7600 RPM          | ok
+BPB_FAN_4B       | 6100 RPM          | ok
+BPB_FAN_5A       | 7600 RPM          | ok
+BPB_FAN_5B       | 6100 RPM          | ok
+BPB_FAN_6A       | 7600 RPM          | ok
+BPB_FAN_6B       | 6100 RPM          | ok
+BPB_FAN_7A       | 7600 RPM          | ok
+BPB_FAN_7B       | 6100 RPM          | ok
+BPB_FAN_8A       | 6100 RPM          | ok
+BPB_FAN_8B       | 7600 RPM          | ok
+SEL              | 0x00              | ok
+BPB_HDD_HEALTH   | 0x00              | ok
+Watchdog         | 0x00              | ok
+PSU1_HOTSPOT     | 54 degrees C      | ok
+PSU2_HOTSPOT     | 41 degrees C      | ok
+NVMeG0_TEMP      | 42 degrees C      | ok
+NVMeG1_TEMP      | no reading        | ns
+NVMeG2_TEMP      | no reading        | ns
+NVMeG3_TEMP      | no reading        | ns
+NVMeG4_TEMP      | no reading        | ns
+NVMeG5_TEMP      | no reading        | ns
+exit code: 0
+Current time: | Mon Mar 19 14:55:01 EDT 2018
+Time stamp: | 1521485701
+Excel time format: | 19/03/18 02:55:01 PM
+P_12V            | 12.09 Volts       | ok
+P_5V             | 5.04 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.01 Volts        | ok
+P_1V05_PCH       | 1.04 Volts        | ok
+P_VBAT           | 2.61 Volts        | nc
+P_VCCIN_CPU0     | 1.75 Volts        | ok
+P_VCCIN_CPU1     | 1.75 Volts        | ok
+P_VDDQ_CPU0_ABC  | 1.22 Volts        | ok
+P_VDDQ_CPU0_DEF  | 1.23 Volts        | ok
+P_VDDQ_CPU1_ABC  | 1.22 Volts        | ok
+P_VDDQ_CPU1_DEF  | 1.23 Volts        | ok
+P_VNN_PCH_AUX    | 0.99 Volts        | ok
+P_1V8_AUX_PCH    | 1.80 Volts        | ok
+P_1V0_AUX_LAN    | 1.02 Volts        | ok
+PS1_Status       | 0x00              | ok
+PS2_Status       | 0x00              | ok
+CPU0_TEMP        | 58 degrees C      | ok
+CPU0_DTS         | 43 degrees C      | ok
+CPU1_TEMP        | 56 degrees C      | ok
+CPU1_DTS         | 45 degrees C      | ok
+DIMMG0_TEMP      | 41 degrees C      | ok
+DIMMG1_TEMP      | 41 degrees C      | ok
+DIMMG2_TEMP      | 39 degrees C      | ok
+DIMMG3_TEMP      | 41 degrees C      | ok
+PCH_TEMP         | 49 degrees C      | ok
+MB_TEMP1         | 43 degrees C      | ok
+MB_TEMP2         | 49 degrees C      | ok
+VR_P0_TEMP       | 37 degrees C      | ok
+VR_P0_VIN        | 12 Volts          | ok
+VR_P0_VOUT       | 1.79 Volts        | ok
+VR_P0_IOUT       | 49 Amps           | ok
+VR_P1_TEMP       | 36 degrees C      | ok
+VR_P1_VIN        | 12.12 Volts       | ok
+VR_P1_VOUT       | 1.79 Volts        | ok
+VR_P1_IOUT       | 44 Amps           | ok
+VR_DIMMG0_TEMP   | 32 degrees C      | ok
+VR_DIMMG0_VIN    | 12.12 Volts       | ok
+VR_DIMMG0_VOUT   | 1.26 Volts        | ok
+VR_DIMMG0_IOUT   | 7 Amps            | ok
+VR_DIMMG1_TEMP   | 32 degrees C      | ok
+VR_DIMMG1_VIN    | 12.12 Volts       | ok
+VR_DIMMG1_VOUT   | 1.26 Volts        | ok
+VR_DIMMG1_IOUT   | 5 Amps            | ok
+VR_DIMMG2_TEMP   | 30 degrees C      | ok
+VR_DIMMG2_VIN    | 12.12 Volts       | ok
+VR_DIMMG2_VOUT   | 1.26 Volts        | ok
+VR_DIMMG2_IOUT   | 7 Amps            | ok
+VR_DIMMG3_TEMP   | 32 degrees C      | ok
+VR_DIMMG3_VIN    | 12.12 Volts       | ok
+VR_DIMMG3_VOUT   | 1.26 Volts        | ok
+VR_DIMMG3_IOUT   | 5 Amps            | ok
+CPU0_Status      | 0x00              | ok
+CPU1_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+INLET_AIR_TEMP   | 29 degrees C      | ok
+OCP_G0_TEMP      | no reading        | ns
+M2_G0_TEMP       | no reading        | ns
+OCP_G1_TEMP      | no reading        | ns
+M2_G1_TEMP       | no reading        | ns
+M2_G2_TEMP       | no reading        | ns
+RISER1_TEMP      | no reading        | ns
+RISER2_TEMP      | 50 degrees C      | ok
+RISER3_TEMP      | 45 degrees C      | ok
+RISER4_TEMP      | no reading        | ns
+HDD_TEMP_0       | 40 degrees C      | ok
+HDD_TEMP_1       | 40 degrees C      | ok
+BPB_FAN_1A       | 7700 RPM          | ok
+BPB_FAN_1B       | 6100 RPM          | ok
+BPB_FAN_2A       | 7700 RPM          | ok
+BPB_FAN_2B       | 6300 RPM          | ok
+BPB_FAN_3A       | 7700 RPM          | ok
+BPB_FAN_3B       | 6200 RPM          | ok
+BPB_FAN_4A       | 7500 RPM          | ok
+BPB_FAN_4B       | 6100 RPM          | ok
+BPB_FAN_5A       | 7600 RPM          | ok
+BPB_FAN_5B       | 6200 RPM          | ok
+BPB_FAN_6A       | 7600 RPM          | ok
+BPB_FAN_6B       | 6100 RPM          | ok
+BPB_FAN_7A       | 7600 RPM          | ok
+BPB_FAN_7B       | 6200 RPM          | ok
+BPB_FAN_8A       | 6100 RPM          | ok
+BPB_FAN_8B       | 7600 RPM          | ok
+SEL              | 0x00              | ok
+BPB_HDD_HEALTH   | 0x00              | ok
+Watchdog         | 0x00              | ok
+PSU1_HOTSPOT     | 54 degrees C      | ok
+PSU2_HOTSPOT     | 41 degrees C      | ok
+NVMeG0_TEMP      | 42 degrees C      | ok
+NVMeG1_TEMP      | no reading        | ns
+NVMeG2_TEMP      | no reading        | ns
+NVMeG3_TEMP      | no reading        | ns
+NVMeG4_TEMP      | no reading        | ns
+NVMeG5_TEMP      | no reading        | ns
+exit code: 0

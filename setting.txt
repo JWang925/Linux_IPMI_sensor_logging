@@ -1,0 +1,6 @@
+IP=192.168.1.29
+user=admin
+pw=passwordgigabyte
+output_file=demo
+logging_interval=30 ##seconds between 2 calls to ipmitool
+run_time_in_m=720 ##running time in minutes

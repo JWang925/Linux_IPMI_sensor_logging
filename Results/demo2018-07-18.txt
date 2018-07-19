@@ -1,0 +1,156 @@
+Current time: | Wed Jul 18 19:20:17 EDT 2018
+Time stamp: | 1531956017
+Excel time format: | 18/07/18 07:20:17 PM
+P_12V            | 12.09 Volts       | ok
+P_5V             | 4.99 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.14 Volts        | ok
+P_1V_AUX_PCH     | 0.98 Volts        | ok
+P_VBAT           | 3.10 Volts        | ok
+P_VCCIN_CPU0     | 1.33 Volts        | ok
+P_VDDQ_AB        | 1.33 Volts        | ok
+P_VDDQ_CD        | 1.33 Volts        | ok
+P_VCCSA          | 1.14 Volts        | ok
+CPU0_FAN         | 7300 RPM          | ok
+LD_FAN1          | 2200 RPM          | ok
+PS1_Status       | 0x00              | ok
+CPU0_TEMP        | 41 degrees C      | ok
+CPU0_DTS         | 59 degrees C      | ok
+VR_P0_TEMP       | 48 degrees C      | ok
+VR_P0_VIN        | 12.10 Volts       | ok
+VR_P0_VCCSA      | 1.09 Volts        | ok
+VR_P0_IOUT       | 25 Amps           | ok
+VR_P0_VCCIO      | 1.05 Volts        | ok
+VR_P0_VCCIN      | 1.84 Volts        | ok
+VR_DIMMG0_TEMP   | 47 degrees C      | ok
+VR_DIMMG0_VIN    | 12.16 Volts       | ok
+VR_DIMMG0_VPP    | 2.50 Volts        | ok
+VR_DIMMG0_IOUT   | 0 Amps            | ok
+VR_DIMMG1_TEMP   | 41 degrees C      | ok
+VR_DIMMG1_VIN    | 12.10 Volts       | ok
+VR_DIMMG1_VPP    | 2.50 Volts        | ok
+VR_DIMMG1_IOUT   | 0 Amps            | ok
+VR_DIMMG0_VDDQ   | 1.34 Volts        | ok
+VR_DIMMG1_VDDQ   | 1.34 Volts        | ok
+CPU0_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+SEL              | 0x00              | ok
+Watchdog         | 0x00              | ok
+exit code: 0
+Current time: | Wed Jul 18 19:20:57 EDT 2018
+Time stamp: | 1531956057
+Excel time format: | 18/07/18 07:20:57 PM
+P_12V            | 12.03 Volts       | ok
+P_5V             | 4.99 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.14 Volts        | ok
+P_1V_AUX_PCH     | 0.98 Volts        | ok
+P_VBAT           | 3.10 Volts        | ok
+P_VCCIN_CPU0     | 1.34 Volts        | ok
+P_VDDQ_AB        | 1.33 Volts        | ok
+P_VDDQ_CD        | 1.33 Volts        | ok
+P_VCCSA          | 1.14 Volts        | ok
+CPU0_FAN         | 7300 RPM          | ok
+LD_FAN1          | 2200 RPM          | ok
+PS1_Status       | 0x00              | ok
+CPU0_TEMP        | 43 degrees C      | ok
+CPU0_DTS         | 57 degrees C      | ok
+VR_P0_TEMP       | 48 degrees C      | ok
+VR_P0_VIN        | 12.03 Volts       | ok
+VR_P0_VCCSA      | 1.09 Volts        | ok
+VR_P0_IOUT       | 52 Amps           | ok
+VR_P0_VCCIO      | 1.05 Volts        | ok
+VR_P0_VCCIN      | 1.84 Volts        | ok
+VR_DIMMG0_TEMP   | 46 degrees C      | ok
+VR_DIMMG0_VIN    | 12.10 Volts       | ok
+VR_DIMMG0_VPP    | 2.50 Volts        | ok
+VR_DIMMG0_IOUT   | 0 Amps            | ok
+VR_DIMMG1_TEMP   | 40 degrees C      | ok
+VR_DIMMG1_VIN    | 12.03 Volts       | ok
+VR_DIMMG1_VPP    | 2.50 Volts        | ok
+VR_DIMMG1_IOUT   | 0 Amps            | ok
+VR_DIMMG0_VDDQ   | 1.34 Volts        | ok
+VR_DIMMG1_VDDQ   | 1.34 Volts        | ok
+CPU0_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+SEL              | 0x00              | ok
+Watchdog         | 0x00              | ok
+exit code: 0
+Current time: | Wed Jul 18 19:21:36 EDT 2018
+Time stamp: | 1531956096
+Excel time format: | 18/07/18 07:21:36 PM
+P_12V            | 12.03 Volts       | ok
+P_5V             | 4.99 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.11 Volts        | ok
+P_1V_AUX_PCH     | 0.98 Volts        | ok
+P_VBAT           | 3.10 Volts        | ok
+P_VCCIN_CPU0     | 1.34 Volts        | ok
+P_VDDQ_AB        | 1.33 Volts        | ok
+P_VDDQ_CD        | 1.33 Volts        | ok
+P_VCCSA          | 1.15 Volts        | ok
+CPU0_FAN         | 7300 RPM          | ok
+LD_FAN1          | 2200 RPM          | ok
+PS1_Status       | 0x00              | ok
+CPU0_TEMP        | 45 degrees C      | ok
+CPU0_DTS         | 56 degrees C      | ok
+VR_P0_TEMP       | 49 degrees C      | ok
+VR_P0_VIN        | 12.03 Volts       | ok
+VR_P0_VCCSA      | 1.09 Volts        | ok
+VR_P0_IOUT       | 52 Amps           | ok
+VR_P0_VCCIO      | 1.05 Volts        | ok
+VR_P0_VCCIN      | 1.84 Volts        | ok
+VR_DIMMG0_TEMP   | 46 degrees C      | ok
+VR_DIMMG0_VIN    | 12.16 Volts       | ok
+VR_DIMMG0_VPP    | 2.50 Volts        | ok
+VR_DIMMG0_IOUT   | 0 Amps            | ok
+VR_DIMMG1_TEMP   | 40 degrees C      | ok
+VR_DIMMG1_VIN    | 12.03 Volts       | ok
+VR_DIMMG1_VPP    | 2.50 Volts        | ok
+VR_DIMMG1_IOUT   | 0 Amps            | ok
+VR_DIMMG0_VDDQ   | 1.34 Volts        | ok
+VR_DIMMG1_VDDQ   | 1.34 Volts        | ok
+CPU0_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+SEL              | 0x00              | ok
+Watchdog         | 0x00              | ok
+exit code: 0
+Current time: | Wed Jul 18 19:22:24 EDT 2018
+Time stamp: | 1531956144
+Excel time format: | 18/07/18 07:22:24 PM
+P_12V            | 12.03 Volts       | ok
+P_5V             | 4.99 Volts        | ok
+P_3V3            | 3.29 Volts        | ok
+P_5V_STBY        | 5.11 Volts        | ok
+P_1V_AUX_PCH     | 0.98 Volts        | ok
+P_VBAT           | 3.12 Volts        | ok
+P_VCCIN_CPU0     | 1.34 Volts        | ok
+P_VDDQ_AB        | 1.34 Volts        | ok
+P_VDDQ_CD        | 1.34 Volts        | ok
+P_VCCSA          | 1.14 Volts        | ok
+CPU0_FAN         | 7300 RPM          | ok
+LD_FAN1          | 2200 RPM          | ok
+PS1_Status       | 0x00              | ok
+CPU0_TEMP        | 45 degrees C      | ok
+CPU0_DTS         | 55 degrees C      | ok
+VR_P0_TEMP       | 50 degrees C      | ok
+VR_P0_VIN        | 12.03 Volts       | ok
+VR_P0_VCCSA      | 1.09 Volts        | ok
+VR_P0_IOUT       | 26 Amps           | ok
+VR_P0_VCCIO      | 1.05 Volts        | ok
+VR_P0_VCCIN      | 1.84 Volts        | ok
+VR_DIMMG0_TEMP   | 47 degrees C      | ok
+VR_DIMMG0_VIN    | 12.22 Volts       | ok
+VR_DIMMG0_VPP    | 2.50 Volts        | ok
+VR_DIMMG0_IOUT   | 0 Amps            | ok
+VR_DIMMG1_TEMP   | 41 degrees C      | ok
+VR_DIMMG1_VIN    | 12.16 Volts       | ok
+VR_DIMMG1_VPP    | 2.50 Volts        | ok
+VR_DIMMG1_IOUT   | 0 Amps            | ok
+VR_DIMMG0_VDDQ   | 1.34 Volts        | ok
+VR_DIMMG1_VDDQ   | 1.34 Volts        | ok
+CPU0_Status      | 0x00              | ok
+BIOS_POST        | 0x00              | ok
+SEL              | 0x00              | ok
+Watchdog         | 0x00              | ok
+exit code: 0
